@@ -1,0 +1,28 @@
+name: swrztest
+favicon: null
+layout_spectrum: 0.8359243627637625
+typography_spectrum: 0.8327215381432325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.13362818793393672
+  lightness: 0.41961935767903924
+  saturation: 0.7258480279706419
+  rhythmicContrast: 0.10687242425046861
+purpose: []
